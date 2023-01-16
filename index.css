@@ -1,0 +1,13 @@
+.navbar-light .navbar-toggler-icon{
+    background-image: url("https://www.royalenfield.com/content/dam/royal-enfield/usa/motorcycles/landing/new/scram-411.jpg");
+}
+/* .scram{
+    background-color: black;
+    margin-bottom: 10px;
+} */
+.navlink{
+transition: all 0.2s;
+}
+.navlink:hover{
+    text-decoration: underline;
+}
